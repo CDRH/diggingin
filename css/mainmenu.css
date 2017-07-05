@@ -1,0 +1,25 @@
+/* CSS Document */
+
+
+div#headMenu {height: 169px; background: url('../web-images/headbg.jpg') top left no-repeat #1C0B09; text-align: right; margin: 0px; padding: 0px;}
+
+div#fpbody div#headMenu {background: url('../web-images/introhead.jpg') top left no-repeat #1C0B09; height: 130px;}
+
+div#headMenu p {text-align: right; font-size: 12px; letter-spacing: .05em; color: white; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; padding: 20px 20px 0px 0px; margin: 0px;}
+
+span.mmItem {display:block; padding-bottom: 5px;}
+
+div#headMenu p#research, div#headMenu p#history {font-weight: bold; padding: 0px; width: 170px; float: right; margin: 20px 20px 0px 0px; line-height: 2em;}
+
+div#headMenu p#research {width: 160px;}
+
+div#headMenu a:link {color: white;}
+div#headMenu a:visited {color: white;}
+div#headMenu a:hover {text-decoration: none; color:#00CCFF;}
+
+div#headMenu a.selected:link, div#headMenu a.selected:visited {color:#00CCFF;}
+
+a.hide {color: #333333; }
+div#headMenu a.hide:hover {color: #333333;}
+
+img.headTitle {float: left; margin-top: 110px; margin-left: 10px; }
